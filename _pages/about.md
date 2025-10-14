@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The _Locally Owned & Managed_ Systems (LOOM) Lab focuses on research at the context of computer networked systems and people--a spece we refer to as **human-centered networks**. The lab is directed by Dr. Morgan Vigil-Hayes, currently an associate professor in the [Media & Information Department](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University.
+The _Locally Owned & Managed_ Systems (LOOM) Lab focuses on research at the intersection of computer networked systems and people--a space we refer to as **human-centered networks**. The lab is directed by Dr. Morgan Vigil-Hayes, currently an associate professor in the [Media & Information Department](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University.
 
 Historically, the Vigil-Hayes research group has focused on projects that engage a wide range of human-centered networking topics, including:
 
@@ -27,6 +27,8 @@ Through interdisciplinary collaboration, participatory methods, and responsible 
 We are particularly committed to working with communities where [rurality](https://dl.acm.org/doi/10.1145/3328487) and Indigeneity are critical to community governance and practice._
 
 **Themes:** _community networks; human-centered networking; digital equity; rurality; Indigeneity; computational futures_
+
+_You can learn more about the lab philosophy of research [here.](https://loom-lab.github.io/philosophy/)_
 
 Research Methods
 =====
