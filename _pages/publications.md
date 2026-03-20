@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+Marisa Duarte, Pankti Shukla, and Morgan Vigil-Hayes. “Indigenous Computational Futures” in press for ACM Interactions Waves May/June (scholarly magazine). 
+
+Shelby Hagemann, Morgan Vigil-Hayes, Marissa Adams, Darold Joseph, Ashish Amresh, Annie Collier. “User Testing a mHealth Behavioral Health Application for Hopi Youth during the COVID-19 Pandemic.” in press JMIR Formative (journal)
+
 
 ## 2025
 A. Ebrahimi et al., "DISCOVER: A Cyberinfrastructure Testbed for Distributed Computing and Networking in Rural and Remote Environments," 2025 IEEE 26th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), Fort Worth, TX, USA, 2025, pp. 317-322, [Link](https://ieeexplore.ieee.org/abstract/document/11027049)
