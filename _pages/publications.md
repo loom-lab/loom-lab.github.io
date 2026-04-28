@@ -5,10 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
-Marisa Duarte, Pankti Shukla, and Morgan Vigil-Hayes. “Indigenous Computational Futures” in press for ACM Interactions Waves May/June (scholarly magazine). 
 
-Shelby Hagemann, Morgan Vigil-Hayes, Marissa Adams, Darold Joseph, Ashish Amresh, Annie Collier. “User Testing a mHealth Behavioral Health Application for Hopi Youth during the COVID-19 Pandemic.” in press JMIR Formative (journal)
+Shelby Hagemann, Ferran Altarriba Bertran, Elena Márquez Segura, Jared Duval, Morgan Vigil-Hayes. “Chasing Play Potentials in Place for Innovative Mobile Crowdsensing” _to appear in ACM DIS 2026 Conference Workshops Track, Singapore_
 
+Saroj Pakkula, Shelby Hagemann, Ashish Amresh, and Morgan Vigil-Hayes. “An Offline-First Modular mHealth Platform for Rural Youth Mental Wellness” _to appear as a short paper to ACM MobiSys ‘26 as a Poster._
+
+Danielle Gartner, Ceco Maples, Kehli Henry, and Morgan Vigil-Hayes. “Ownership, Design, and Development of mHealth Interventions for Indigenous Maternal and Infant Health and Wellbeing: A Scoping Review” _to appear in the Annual Meeting of the Society for Pediatric and Perinatal Epidemiologic Research (SPER 2026) as a Poster_
+
+Marisa Elena Duarte, Pankti Darshan Shukla, and Morgan Vigil-Hayes. 2026. Indigenous Computational Futures 2025: How Land and People Inspire Radical Design. interactions 33, 3 (May - June 2026), 7–9. [Link](https://doi.org/10.1145/3803766)
+
+Beatriz Palacios Abad, David Peeler, Amanda Meng, Ellen Zegura, Elizabeth Belding, and Morgan Vigil-Hayes. 2026. DEMO: CellWatch. In Proceedings of the 27th International Workshop on Mobile Computing Systems and Applications (HotMobile '26). Association for Computing Machinery, New York, NY, USA, 167. [Link](https://doi.org/10.1145/3789514.3796247)
+
+
+Shelby Hagemann, Morgan Vigil-Hayes, Ashish Amresh, Marissa Adams, Darold H. Joseph, Ann F. Collier. User Testing an mHealth Behavioral Health App for Hopi/Tewa Youth During the COVID-19 Pandemic: Usability Study. JMIR Form Res 2026;10:e77898. [Link](https://formative.jmir.org/2026/1/e77898)
 
 ## 2025
 A. Ebrahimi et al., "DISCOVER: A Cyberinfrastructure Testbed for Distributed Computing and Networking in Rural and Remote Environments," 2025 IEEE 26th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), Fort Worth, TX, USA, 2025, pp. 317-322, [Link](https://ieeexplore.ieee.org/abstract/document/11027049)
@@ -36,16 +45,16 @@ Nazmul Hossain and Morgan Vigil-Hayes. "Woes, Workarounds, and Wishes of Users L
 Beatriz Palacios Abad, Michael Koohang, Morgan Vigil-Hayes, and Ellen Zegura. 2023. Alone and Together: Resilience in a Fluid Socio-Technical-Natural System. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 24 (April 2023), 26 pages. [Link](https://doi.org/10.1145/3579457)
 
 ## 2022
-Esther Showalter, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding. "Pandemic-Influenced Human Mobility on Tribal Lands in California: Data Sparsity and Analytical Precision". to appear in PLOS One. [Link](https://doi.org/10.1371/journal.pone.0276644)
+Esther Showalter, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding. "Pandemic-Influenced Human Mobility on Tribal Lands in California: Data Sparsity and Analytical Precision". PLOS One. [Link](https://doi.org/10.1371/journal.pone.0276644)
 
 Morgan Vigil-Hayes, Md Nazmul Hossain, Alexander Elliot, Elizabeth Belding, and Ellen Zegura. "LoRaX: Repurposing LoRa as a Low Data Rate Messaging System to Extend Internet Boundaries." ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS). June 2022. [Link](https://doi.org/10.1145/3530190.3534807)
 
 Tarun Mangla, Esther Showalter, Vivek Adarsh, Kip Jones, Morgan Vigil-Hayes, Elizabeth Belding and Ellen Zegura, "A Tale of Three Datasets: Towards Characterizing Mobile Broadband Access in the United States", Communications of the ACM, March 2022. [Link](https://doi.org/10.1145/3462672)
 
 ## 2021
-Marisa Duarte, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding, Ivone Masara, and Jennifer Case Nevarez. "'As a Squash Plant Grows': Social Textures of Sparse Internet Connectivity in Rural and Tribal Communities." to appear in ACM Transactions on CHI, Special Issue: Rural HCI. June 2021. [Link](https://doi.org/10.1145/3453862)
+Marisa Duarte, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding, Ivone Masara, and Jennifer Case Nevarez. "'As a Squash Plant Grows': Social Textures of Sparse Internet Connectivity in Rural and Tribal Communities." ACM Transactions on CHI, Special Issue: Rural HCI. June 2021. [Link](https://doi.org/10.1145/3453862)
 
-Morgan Vigil-Hayes, Anne Futterman Collier, Shelby Hagemann, Giovanni Castillo, Keller Mikkelson, Joshua Dingman, Andrew Muñoz, Jade Luther, Alexandra McLaughlin. "Integrating Cultural Relevance into a Behavioral mHealth Intervention for Native American Youth." to appear in the Proceedings of the ACM on Human-Computer Interaction 5, CSCW1, Article 165. April 2021. Recognition for Contribution to Diversity and Inclusion Best Paper Award [Link](https://doi.org/10.1145/3449239)
+Morgan Vigil-Hayes, Anne Futterman Collier, Shelby Hagemann, Giovanni Castillo, Keller Mikkelson, Joshua Dingman, Andrew Muñoz, Jade Luther, Alexandra McLaughlin. "Integrating Cultural Relevance into a Behavioral mHealth Intervention for Native American Youth." Proceedings of the ACM on Human-Computer Interaction 5, CSCW1, Article 165. April 2021. Recognition for Contribution to Diversity and Inclusion Best Paper Award [Link](https://doi.org/10.1145/3449239)
 
 Vivek Ardash, Michael Nekrasov, Udit Paul, Alex Ermakov, Arpit Gupta, Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding. "Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts." In Proceedings of the Passive and Active Measurement Conference, March 2021. [Link](https://doi.org/10.1007/978-3-030-72582-2_9)
 
