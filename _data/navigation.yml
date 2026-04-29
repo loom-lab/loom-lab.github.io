@@ -26,8 +26,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-#  - title: "Philosophy"
-#    url: /philosophy/
+  - title: "REU 2026"
+    url: /reu2026/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/

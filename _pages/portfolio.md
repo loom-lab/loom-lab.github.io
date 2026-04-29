@@ -9,6 +9,8 @@ An up-to-date catalog of projects for undergraduate and graduate students can be
 
 ## Active Projects
 
+* [**2026 Research Experience for Undergrads**](https://loom-lab.github.io/reu2026/): Projects tailored for undergraduate students related to ongoing NSF-funded projects in the lab. 
+
 * [**DePIN & Decentralized Networks**](): This is an emergent project that explores how DePIN and decentralized networks are enabling collective infrastructure sovereignty and challenging the consolidation of Internet architecture, services, and users. 
 
 * [**NetGauge**](https://sites.google.com/view/netgaugegames/home): This project is funded by NSF CAREER Award #2145861. The goals of this project are to (1) characterize motivations, incentives, and barriers associated with crowdsourced Internet measurement; (2) design a novel platform that helps drive engaging crowdsourced mobile broadband measurement; (3) theorize about engagement with crowdsourced monitoring of broadband infrastructure. (8/2022-7/2027)
